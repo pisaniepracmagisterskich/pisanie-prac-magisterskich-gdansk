@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head> 
 {% raw %}{% seo %}{% endraw %}
-## Nie polecam pisaniepracmagisterksichgdansk
+## Nie polecam pisaniepracmagisterskichgdansk pisanieprac pisanie prac dyplomowych pisanie prac magisterskich
 
 Niestety "firma" która w domyśle ma pomagać w pisaniu prac magisterskich i ogłasza się w  wielu polskich miastach jest skrajnie nie profesjonalna. Moja współpraca z "pisaniepracmagisterskichgdansk.pl",
 która sprawia wrażenie bycia powiązaną z:
