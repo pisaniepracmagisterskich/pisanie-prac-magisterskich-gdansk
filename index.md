@@ -1,3 +1,11 @@
+ <head>
+  <meta charset="UTF-8">
+  <meta name="description" content="Nie polecam pisaniepracmagisterskich gdansk wroclaw poznan krakow warszawa lodz torun">
+  <meta name="keywords" content="pisanieprac, pisaniepracmagisterskich, pisaniepracdyplomowych">
+  <meta name="author" content="Nie polecam pisanie prac">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head> 
+{% raw %}{% seo %}{% endraw %}
 ## Nie polecam pisaniepracmagisterksichgdansk
 
 Niestety "firma" która w domyśle ma pomagać w pisaniu prac magisterskich i ogłasza się w  wielu polskich miastach jest skrajnie nie profesjonalna. Moja współpraca z "pisaniepracmagisterskichgdansk.pl",
