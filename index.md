@@ -26,14 +26,19 @@ Do tego wszystkiego w ramach kontaktu na kilka tygodni przed terminem o status i
 
 Oczywiście kwestie rachunku czy faktury również są "mgliste", co oznacza, że dodatkowo Urząd skarbowy w tym wszystkim też może w pewnym momencie się zainteresować tym bardzo kiepsko prowadzonym przedsięwzięciem.
 
-**KATEGORYCZNIE ODRADZAM WSPÓŁPRACĘ Z ** pisaniepracmagisterskichgdansk.pl i podobnymi stronami z innymi miastami w nazwie takimi jak:
+**KATEGORYCZNIE ODRADZAM WSPÓŁPRACĘ Z ** **pisaniepracmagisterskichgdansk.pl **i podobnymi stronami z innymi miastami w nazwie takimi jak:
 
-**http://pracemagisterskiekrakow.pl/
-http://pracemagisterskiewarszawa.pl
-http://pracemagisterskiewroclaw.pl/
-http://pracemagisterskiepoznan.pl/
-http://pisaniepracmagisterskichlodz.pl/
-http://pisaniepracmagisterskichkatowice.pl/**
+**http://pracemagisterskiekrakow.pl/**
+
+**http://pracemagisterskiewarszawa.pl**
+
+**http://pracemagisterskiewroclaw.pl/**
+
+**http://pracemagisterskiepoznan.pl/**
+
+**http://pisaniepracmagisterskichlodz.pl/**
+
+**http://pisaniepracmagisterskichkatowice.pl/**
 
 ```markdown
 Syntax highlighted code block
