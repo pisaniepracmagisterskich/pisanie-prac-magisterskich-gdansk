@@ -12,7 +12,7 @@ Zakończyła się niezaliczonym semestrem i dodatkowymi kosztami czesnych w rama
 
 Po ponad miesięcznym okresie, telefonicznie dowiedziałem się o odrzuceniu reklamacji. Oczywiście kontakt musiałem zainicjować, maile były w tym okresie ignorowane. Osoby na infolinii jedynie udzielają informacji o statusie zamówienia, załatwienie jakiejkolwiek innej sprawy za ich pośrednictwem jest niemożliwe.
 
-W takiej sytuacji pozostaje ścieżka mailowa która potrafi jedynie bezczelnie powiedzieć coś w stylu "nie mamy Pana płaszcza i co nam Pan zrobisz?", czyli albo płać i płacz albo po prostu płacz na zmarnowane pieniądze, czas i nerwy.
+W takiej sytuacji pozostaje ścieżka mailowa która potrafi jedynie bezczelnie powiedzieć coś w stylu **"nie mamy Pana płaszcza i co nam Pan zrobisz?"**, czyli albo płać i płacz albo po prostu płacz na zmarnowane pieniądze, czas i nerwy.
 
 Do tego wszystkiego w ramach kontaktu na kilka tygodni przed terminem o status i kwestie wyrobienia się (co powinno być oczywiste w ramach zaakceptowanego zlecenia) dostałem informacje, że jest możliwość w przypadku uiszczenia większej części zaliczki (w tym momencie 80% wartości pracy), oczywiście nic to nie zmienilo a termin oddania pracy zadeklarowy w mailu przez  pisaniepracmagisterskichgdansk.pl zmieniał się kilkukrotnie aż w końcu znacząco wykroczył poza maksymalny termin. Mogę przypuszczać jedynie, że gdybym nie poszedl szybszą ścieżką, praca byłaby opóźniona nie o <strong>10dni </strong>(a to i tak jest łagodne wyliczenie) a o około miesiąc.
 
@@ -26,12 +26,6 @@ http://pracemagisterskiewroclaw.pl/
 http://pracemagisterskiepoznan.pl/
 http://pisaniepracmagisterskichlodz.pl/
 http://pisaniepracmagisterskichkatowice.pl/**
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
@@ -53,10 +47,4 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pisaniepracmagisterskich/pisaniepracmagisterskich/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
